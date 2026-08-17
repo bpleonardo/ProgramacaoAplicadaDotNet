@@ -26,3 +26,4 @@ D:\OneDrive\UNIP\Disciplinas\ProgramacaoAplicadaDotNet\Aulas\Desenvolvimento\Pat
 D:\OneDrive\UNIP\Disciplinas\ProgramacaoAplicadaDotNet\Aulas\Desenvolvimento\PatternMatching\obj\Debug\net9.0\PatternMatching.pdb
 D:\OneDrive\UNIP\Disciplinas\ProgramacaoAplicadaDotNet\Aulas\Desenvolvimento\PatternMatching\obj\Debug\net9.0\PatternMatching.genruntimeconfig.cache
 D:\OneDrive\UNIP\Disciplinas\ProgramacaoAplicadaDotNet\Aulas\Desenvolvimento\PatternMatching\obj\Debug\net9.0\ref\PatternMatching.dll
+D:\OneDrive\UNIP\Disciplinas\ProgramacaoAplicadaDotNet\Aulas\Desenvolvimento\PatternMatching\obj\Debug\net9.0\PatternMatching.sourcelink.json
