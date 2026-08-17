@@ -9,7 +9,9 @@
             Gerente ger = new Gerente("Arthur", 35, 10);
             Estagiario est = new Estagiario("Caio", 18, 22);
 
-            VerificarFuncionario(dev);
+            //VerificarFuncionario(dev);
+
+            Console.WriteLine(VerificarFuncionarioSwitchExpression(est));
 
         }
 
@@ -82,6 +84,23 @@
                     Console.WriteLine("Objeto não reconhecido");
                     break;
             }
+        }
+
+        // Esta função verifica o tipo do objeto utilizando a sintaxe de
+        // switch expression. Nessa sintaxe, é realizado o teste condicional
+        // e, para cada caso, uma expressão é executada.
+        // Neste exemplo, a expressão monta uma string que será retornada.
+        static string VerificarFuncionarioSwitchExpression(object obj)
+        {
+            string resuldo = obj switch
+            {
+                Desenvolvedor dev => $"{dev.Nome} é Desenvolvedor(a)",
+                Gerente ger => $"{ger.Nome} é Gerente",
+                Estagiario est => $"{est.Nome} é Estagiário", 
+                _ => "Objeto não reconhecido"
+            };
+
+            return resuldo;
         }
 
     }

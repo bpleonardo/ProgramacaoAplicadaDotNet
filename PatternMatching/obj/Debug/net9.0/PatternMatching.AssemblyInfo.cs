@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PatternMatching")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+242951b996e2a54c4307770409fa13c4776180c0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+85eb80d8d3592de75389d2569d7c8ac24b576e72")]
 [assembly: System.Reflection.AssemblyProductAttribute("PatternMatching")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PatternMatching")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
